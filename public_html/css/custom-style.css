@@ -11,3 +11,12 @@ div{
 .row{
     border-color: red
 }
+
+body{
+    background-image: url("http://3.bp.blogspot.com/-ZUYNbUVpX9U/T_w2Vn4DQ_I/AAAAAAAACWM/MNZu06pEx48/s1600/space_vortex_644%5B1%5D.jpg");
+    background-size: cover;
+}
+
+font{
+   color:turquoise
+}
